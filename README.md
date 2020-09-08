@@ -17,4 +17,4 @@ Create a git branch and change isPrime in the branch to a less naive, and faster
 Create a second git branch from the previous branch, and change isPrime in the branch to an even less naive, and faster version. Test, commit, and correct until it works.
 Hand in the repo with all three branches. This means that you have three working versions of isPrime.
 
-
+Hvordan anvender man branch på GitHUb??
